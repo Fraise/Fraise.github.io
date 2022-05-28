@@ -3,7 +3,7 @@ title: 'Projects'
 layout: single
 author_profile: false
 classes: wide
-permalink: /projects/
+permalink: /recipes/
 sidebar:
     nav: "recipes"
 ---
