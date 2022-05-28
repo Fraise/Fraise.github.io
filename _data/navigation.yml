@@ -1,5 +1,12 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "Beer recipes"
+    url: /recipes/
   - title: "About"
     url: https://fraise.github.io/
+recipes:
+  - title: Pale ales
+    children:
+      - title: "Desert cruiser"
+        url: /recipes/desert_cruiser
