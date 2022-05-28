@@ -40,3 +40,5 @@ sidebar:
 **Mash temp.:** 67C in 15L (4 gal)
 
 **Boil:** 1h
+
+**Notes:** A light, slightly hoppy pale ale with a malty finish and a smooth mouthfeel.
