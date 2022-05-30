@@ -26,7 +26,7 @@ sidebar:
 - 600g vienna malt
 - 100g wheat malt
 - 100g flaked barley
-- 50g honey barley
+- 50g honey malt
 
 **Hops:**
 
